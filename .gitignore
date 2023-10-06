@@ -1,0 +1,4 @@
+dist/*
+src/detect_indent.egg-info/*
+src/detect_indent/__pycache__/*
+test/__pycache__/*
