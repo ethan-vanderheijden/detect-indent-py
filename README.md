@@ -1,4 +1,4 @@
-# detect-indent-py
+# detect-indent for Python [![Test](https://github.com/Ethan-Vanderheijden/detect-indent-py/actions/workflows/CI.yml/badge.svg)](https://github.com/Ethan-Vanderheijden/detect-indent-py/actions/workflows/CI.yml)
 Python port of
 [sindresorhus/detect-indent](https://github.com/sindresorhus/detect-indent) All
 attribution goes to that project.
